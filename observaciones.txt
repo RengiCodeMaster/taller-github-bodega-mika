@@ -1,1 +1,2 @@
 Proyecto inicial de organización de productos de Bodega Mika.
+Responsable de productos: juan rengifo
